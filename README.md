@@ -1,17 +1,13 @@
 # [LearningInternalRepresentationsByErrorPropagation](http://www.cs.toronto.edu/~fritz/absps/pdp8.pdf)
 Let's code up backprop!
 
-### Map
+### Map Reduce
 
 ```python
 from math import sqrt
 sq_numbers = [1*1, 2*2, 3*3, 4*4, 5*5, 6*6, 7*7, 8*8, 9*9]
 numbers = list(map(sqrt, sq_numbers)
 list(numbers
-'''
-
-### Reduce
-
 
 from functions import reduce
 #create a tuple in string form from x and y
