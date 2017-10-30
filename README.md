@@ -1,7 +1,7 @@
 # [LearningInternalRepresentationsByErrorPropagation](http://www.cs.toronto.edu/~fritz/absps/pdp8.pdf)
 Let's code up backprop!
 
-### Map Reduce
+### [Map & Reduce](https://youtu.be/BihhRsWeKAo?t=2m25s)
 
 ```python
 from math import sqrt
