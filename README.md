@@ -14,6 +14,6 @@ from functions import reduce
 #create a tuple in string form from x and y
 def combine(x, y):
   return '(' + string(x) + ', '+ str(y) + ')'
-  
- print(numbers)
- reduce(combine, numbers)
+
+print(numbers)
+reduce(combine, numbers)
